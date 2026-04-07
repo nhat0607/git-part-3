@@ -22,6 +22,7 @@ int main() {
     int result = a + b; 
 
     cout << "Ket qua cua phep tinh la: " << result << endl;
-
+    cout << "nothing";
+    cout << "nothing";
     return 0;
 }
