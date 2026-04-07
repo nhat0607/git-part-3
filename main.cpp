@@ -14,7 +14,7 @@ int main() {
     printWelcome();
 
     int a = 10;
-    int b = 5;
+    int b = 20;
 
     // TODO: Thuc hien phep tinh o day
     int result = a + b; 
